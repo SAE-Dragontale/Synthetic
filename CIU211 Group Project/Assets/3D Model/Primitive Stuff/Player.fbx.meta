@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 8950c8891af0cb940bb92bf8219b26ce
+timeCreated: 1512554181
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: chest
+    100002: Core
+    100004: head
+    100006: l_ankle
+    100008: l_ball
+    100010: l_elbow
+    100012: l_hip
+    100014: l_knee
+    100016: l_mid_01
+    100018: l_mid_02
+    100020: l_mid_03
+    100022: l_mid_04
+    100024: l_pinky_01
+    100026: l_pinky_02
+    100028: l_pinky_03
+    100030: l_pinky_04
+    100032: l_point_01
+    100034: l_point_02
+    100036: l_point_03
+    100038: l_point_04
+    100040: l_ring_01
+    100042: l_ring_02
+    100044: l_ring_03
+    100046: l_ring_04
+    100048: l_shoulder
+    100050: l_shoulderpad
+    100052: l_thumb_01
+    100054: l_thumb_02
+    100056: l_thumb_03
+    100058: l_thumb_04
+    100060: l_toe
+    100062: l_wrist
+    100064: neck_01
+    100066: neck_02
+    100068: pCube17
+    100070: pCylinder14
+    100072: pCylinder27
+    100074: pCylinder29
+    100076: pCylinder3
+    100078: pCylinder30
+    100080: pCylinder31
+    100082: pCylinder4
+    100084: //RootNode
+    100086: polySurface29
+    100088: polySurface29 1
+    100090: polySurface3
+    100092: polySurface31
+    100094: polySurface5
+    100096: r_ankle
+    100098: r_ball
+    100100: r_elbow
+    100102: r_hip
+    100104: r_knee
+    100106: r_mid_01
+    100108: r_mid_02
+    100110: r_mid_03
+    100112: r_mid_04
+    100114: r_pinky_01
+    100116: r_pinky_02
+    100118: r_pinky_03
+    100120: r_pinky_04
+    100122: r_point_01
+    100124: r_point_02
+    100126: r_point_03
+    100128: r_point_04
+    100130: r_ring_01
+    100132: r_ring_02
+    100134: r_ring_03
+    100136: r_ring_04
+    100138: r_shoulder
+    100140: r_shoulderpad
+    100142: r_thumb_01
+    100144: r_thumb_02
+    100146: r_thumb_03
+    100148: r_thumb_04
+    100150: r_toe
+    100152: r_wrist
+    100154: spine_01
+    100156: spine_02
+    100158: spine_03
+    100160: transform46
+    100162: transform47
+    100164: transform48
+    100166: transform49
+    100168: transform50
+    100170: transform51
+    400000: chest
+    400002: Core
+    400004: head
+    400006: l_ankle
+    400008: l_ball
+    400010: l_elbow
+    400012: l_hip
+    400014: l_knee
+    400016: l_mid_01
+    400018: l_mid_02
+    400020: l_mid_03
+    400022: l_mid_04
+    400024: l_pinky_01
+    400026: l_pinky_02
+    400028: l_pinky_03
+    400030: l_pinky_04
+    400032: l_point_01
+    400034: l_point_02
+    400036: l_point_03
+    400038: l_point_04
+    400040: l_ring_01
+    400042: l_ring_02
+    400044: l_ring_03
+    400046: l_ring_04
+    400048: l_shoulder
+    400050: l_shoulderpad
+    400052: l_thumb_01
+    400054: l_thumb_02
+    400056: l_thumb_03
+    400058: l_thumb_04
+    400060: l_toe
+    400062: l_wrist
+    400064: neck_01
+    400066: neck_02
+    400068: pCube17
+    400070: pCylinder14
+    400072: pCylinder27
+    400074: pCylinder29
+    400076: pCylinder3
+    400078: pCylinder30
+    400080: pCylinder31
+    400082: pCylinder4
+    400084: //RootNode
+    400086: polySurface29
+    400088: polySurface29 1
+    400090: polySurface3
+    400092: polySurface31
+    400094: polySurface5
+    400096: r_ankle
+    400098: r_ball
+    400100: r_elbow
+    400102: r_hip
+    400104: r_knee
+    400106: r_mid_01
+    400108: r_mid_02
+    400110: r_mid_03
+    400112: r_mid_04
+    400114: r_pinky_01
+    400116: r_pinky_02
+    400118: r_pinky_03
+    400120: r_pinky_04
+    400122: r_point_01
+    400124: r_point_02
+    400126: r_point_03
+    400128: r_point_04
+    400130: r_ring_01
+    400132: r_ring_02
+    400134: r_ring_03
+    400136: r_ring_04
+    400138: r_shoulder
+    400140: r_shoulderpad
+    400142: r_thumb_01
+    400144: r_thumb_02
+    400146: r_thumb_03
+    400148: r_thumb_04
+    400150: r_toe
+    400152: r_wrist
+    400154: spine_01
+    400156: spine_02
+    400158: spine_03
+    400160: transform46
+    400162: transform47
+    400164: transform48
+    400166: transform49
+    400168: transform50
+    400170: transform51
+    4300000: polySurface31
+    4300002: polySurface29
+    4300004: pCylinder30
+    4300006: pCylinder31
+    4300008: polySurface3
+    4300010: pCube17
+    7400000: Idle
+    7400002: Walk
+    9500000: //RootNode
+    13700000: pCube17
+    13700002: pCylinder30
+    13700004: pCylinder31
+    13700006: polySurface29
+    13700008: polySurface3
+    13700010: polySurface31
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 95
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
